@@ -1,4 +1,4 @@
-_BASE_: san_clip_vit_res4_coco.yaml
+_BASE_: ELSE_clip_vit_res4_coco.yaml
 MODEL:
   SAN:
     CLIP_RESOLUTION: 0.7
